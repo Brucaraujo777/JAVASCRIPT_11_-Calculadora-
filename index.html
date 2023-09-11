@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <script src="./scripts.js"></script>
+    <title>Calculadora</title>
+</head>
+
+<body>
+
+    <div>
+
+        <input class="display">
+
+        <button class="gray-button" onclick="cleanDisplay ()">AC</button>
+        <button class="gray-button" onclick="invertSignNumber()">+/-</button>
+        <button class="blue-button" onclick="adCharacter('/')">/</button>
+        <button class="blue-button" onclick="adCharacter('*')">*</button>
+        <button class="black-button" onclick="adCharacter('7')">7</button>
+        <button class="black-button" onclick="adCharacter('8')">8</button>
+        <button class="black-button" onclick="adCharacter('9')">9</button>
+        <button class="blue-button" onclick="adCharacter('-')">-</button>
+        <button class="black-button" onclick="adCharacter('4')">4</button>
+        <button class="black-button" onclick="adCharacter('5')">5</button>
+        <button class="black-button" onclick="adCharacter('6')">6</button>
+        <button class="blue-button" onclick="adCharacter('+')">+</button>
+        <button class="black-button" onclick="adCharacter('1')">1</button>
+        <button class="black-button" onclick="adCharacter('2')">2</button>
+        <button class="black-button" onclick="adCharacter('3')">3</button>
+        <button class="equal-button" id="equal" onclick="calculate ()">=</button>
+        <button class="black-button" id="zero" onclick="adCharacter('0')">0</button>
+        <button class="black-button" onclick="adCharacter('.')">.</button>
+
+    </div>
+
+</body>
+
+</html>
