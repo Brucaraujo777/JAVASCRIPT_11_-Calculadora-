@@ -2,7 +2,7 @@
   <br>
 <h2>Esse foi o sétimo projeto que realizei no <a href="https://rodolfomori.com.br/devclub">DevClub<a></h2>
   <br>
-<p>Esse foi o terceiro projeto de aplicação dos conhecimentos básicos do JavaScript e lógica de programação. Criamos uma estrutura de HTML e CSS (aplicando a ferramenta Display Grid), e em seguida  exercitamos novamente a ferramenta Functions.<p>
+<p>Esse foi o terceiro projeto de aplicação dos conhecimentos básicos do JavaScript e lógica de programação. Criamos uma estrutura de HTML e CSS (aplicando a ferramenta Display Grid), e em seguida  exercitamos novamente a ferramenta Functions no Javascript.<p>
   <br> 
 <h3>Tecnologias utilizadas:<h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
