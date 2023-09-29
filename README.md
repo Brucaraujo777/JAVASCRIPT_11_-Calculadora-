@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
   <br>
+<h4>Imagem do projeto:</h4>
 <img src="https://github.com/Brucaraujo777/Projeto7-Calculator/blob/main/assets/Captura%20de%20tela%20Calculator%202.png">
   <br>
   <br>
